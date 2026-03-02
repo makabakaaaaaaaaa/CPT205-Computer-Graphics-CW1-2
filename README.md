@@ -1,2 +1,2 @@
-# CPT205-Computer-Graphics-CW2
-Coursework 2 for CPT205 Computer Graphics, implementing a 3D scene using OpenGL.
+# CPT205-Computer-Graphics-CW1
+Coursework 1 for CPT205 Computer Graphics, implementing a 2D scene using OpenGL.
